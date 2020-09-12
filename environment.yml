@@ -1,4 +1,3 @@
-name: gps-analysis
 channels:
   - conda-forge
   - nodefaults
@@ -24,3 +23,6 @@ dependencies:
   - scipy
   - jupyter
   - gdal
+  - geopy
+  - pydeck
+  - python-dotenv
