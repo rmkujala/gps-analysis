@@ -5,7 +5,7 @@ Install dependencies
 
 	```
         conda config --set channel_priority strict
-	conda create --name gps-analysis --file environment.yml
+	conda env create --name gps-analysis --file environment.yml
         ```
 
 
